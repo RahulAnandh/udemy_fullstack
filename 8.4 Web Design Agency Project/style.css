@@ -44,6 +44,7 @@ footer {
   .card {
     display: block;
     width: 100%;
+    margin-bottom: 30px;
   }
   h1 {
     text-align: center;
